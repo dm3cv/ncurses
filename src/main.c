@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("Hello World from PlatformIO!\n");
+    printf("Hallo Welt aus PlatformIO!\n");
     return 0;
 }
